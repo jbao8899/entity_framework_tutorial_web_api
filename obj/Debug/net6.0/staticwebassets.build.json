@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mNwyCQrQM+ghd2Mu0a3xvBcjdB0ZsAvWdKjYN8sfHUs=",
+  "Source": "entity_framework_tutorial_web_api",
+  "BasePath": "_content/entity_framework_tutorial_web_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
