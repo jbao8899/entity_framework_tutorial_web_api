@@ -1,3 +1,4 @@
+using entity_framework_tutorial_web_api.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace entity_framework_tutorial_web_api.Controllers
