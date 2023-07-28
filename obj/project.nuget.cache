@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EIUExsFT7rECaCBzjbCMqQRji7Dsrn+X2LuGQvEGpHR+z5innTTnQZdBXmbsZ8BcDROArXOfbHN/hlhtepJe5w==",
+  "dgSpecHash": "D0FF4LaCFFYo0O5WE5B9dUnqvM+8gvQsztp3pZ4A3gWCfIPwdqnkZG1e0EKjFHHEuDrQActtlS76xKLlkPhh1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\964864\\OneDrive - Cognizant HealthCare\\Documents\\entity_framework_tutorial_web_api\\entity_framework_tutorial_web_api.csproj",
   "expectedPackageFiles": [
@@ -84,7 +84,7 @@
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.design.8.0.0-preview.6.23329.4.nupkg.sha512",
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.relational.8.0.0-preview.6.23329.4.nupkg.sha512",
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.sqlserver.8.0.0-preview.6.23329.4.nupkg.sha512",
-    "C:\\Users\\964864\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.20\\microsoft.entityframeworkcore.tools.6.0.20.nupkg.sha512",
+    "C:\\Users\\964864\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.tools.8.0.0-preview.6.23329.4.nupkg.sha512",
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.caching.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0-preview.6.23329.7\\microsoft.extensions.caching.memory.8.0.0-preview.6.23329.7.nupkg.sha512",
     "C:\\Users\\964864\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",

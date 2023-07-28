@@ -14,6 +14,6 @@
 
         public DateTime DateCreated { get; set; } = DateTime.Now;
 
-        public bool IsDeleted { get; set; } = false; // soft delete
+        public bool IsDeleted { get; set; } = false; // for soft delete
     }
 }

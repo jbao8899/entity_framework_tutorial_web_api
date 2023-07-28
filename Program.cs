@@ -6,6 +6,7 @@
 // dotnet ef migrations add InitialCreate --context DataContext -> create database
 // dotnet ef database update --context DataContext -> had to add Encrypt=False; to launchSettings.json for it to work
 
+using entity_framework_tutorial_web_api.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace entity_framework_tutorial_web_api
@@ -21,7 +22,7 @@ namespace entity_framework_tutorial_web_api
             builder.Services.AddControllers();
 
             // Added
-            builder.Services.AddDbContext<DbContext>(x => x.UseSqlServer(
+            builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(
                 builder.Configuration.GetConnectionString("DefaultConnection")
             ));
 
